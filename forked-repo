@@ -1,0 +1,11 @@
+curl -s https://api.github.com/repos/Krisut01/github-final-project
+
+{
+  "id": 123456789,
+  "name": "github-final-project",
+  "full_name": "Krisut01/github-final-project",
+  "fork": true,
+  "parent": {
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+  }
+}
