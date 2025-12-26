@@ -63,3 +63,4 @@ Please read our [Code of Conduct](CODE_OF_CONDUCT.md) to keep our community appr
 ## License
 
 This project is open source and available under the MIT License.
+"# Bug fix: corrected typo in documentation" 
