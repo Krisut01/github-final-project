@@ -58,6 +58,8 @@ Works in all modern web browsers that support HTML5, CSS3, and ES5+ JavaScript.
 
 Feel free to fork this project and submit pull requests with improvements!
 
+Please read our [Code of Conduct](CODE_OF_CONDUCT.md) to keep our community approachable and respectable.
+
 ## License
 
 This project is open source and available under the MIT License.
